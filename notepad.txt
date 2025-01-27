@@ -1,0 +1,10 @@
+Multi tenant IOT Services
+machines connect to cloud monitoring, health,water pressure.
+3 LEVEL MONITORING(PROACTIVE,PRDEITIVE ANALYSIS),DATA ANALYTICS ,DATA LAKE, 
+PREDICTIVE
+
+
+GOING TO BE HIGH ,OR HIGH.
+MACHINE HEALTH
+IOT DEVICES
+
